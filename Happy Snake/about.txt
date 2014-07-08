@@ -1,0 +1,25 @@
+Help
+
+Red square: This is food. The score is increased by one.
+
+Blue square: This is food. The score is increased by two.
+
+Pink square: This is food. The score is increased by three.
+
+Green circle :Life is increased by one if it is less than 6.
+
+Black circle :This is a bomb! The score is decreased by five and the life is reduced by one.
+
+Brown block: The score is changed to zero and the life is reduced by one.
+
+
+About
+
+Application: Snake
+Version 14.1
+options: Single player / two players / one player against computer
+Last modification: 2014.01.21
+Developer team:
+	Malihe HajiHoseyni
+	Zahra Hamze
+	Zahra Momeni
